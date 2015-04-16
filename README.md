@@ -6,7 +6,7 @@ exhaust; mostly ipython notebooks based on the
 [Zipline](https://github.com/quantopian/zipline), or
 [Pandas](http://pandas.pydata.org/).
 
-1. [Comparing some Lazy Portfolios]()
-2. [Exploratory Data Analysis (EDA) of ETFs]()
+1. [Comparing some Lazy Portfolios](http://nbviewer.ipython.org/github/paulperry/quant/blob/master/Lazy_Backtests.ipynb)
+2. [Exploratory Data Analysis (EDA) of ETFs](http://nbviewer.ipython.org/github/paulperry/quant/blob/master/ETFs.ipynb)
 
 More to come ... 
