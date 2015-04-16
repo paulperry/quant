@@ -1,7 +1,7 @@
 # quant
 
 Here I collect some Quantitative Finance and Algorithmic Trading
-exhaust; mostly ipython notebooks based on the
+exhaust; mostly ipython notebooks based on
 [Quantopian](https://www.quantopian.com),
 [Zipline](https://github.com/quantopian/zipline), or
 [Pandas](http://pandas.pydata.org/).
