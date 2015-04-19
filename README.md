@@ -8,5 +8,6 @@ exhaust; mostly ipython notebooks based on
 
 1. [Comparing some Lazy Portfolios](http://nbviewer.ipython.org/github/paulperry/quant/blob/master/Lazy_Backtests.ipynb)
 2. [Exploratory Data Analysis (EDA) of ETFs](http://nbviewer.ipython.org/github/paulperry/quant/blob/master/ETFs.ipynb)
+3. [Comparing OLPS Algorithms on ETFs](http://nbviewer.ipython.org/github/paulperry/quant/blob/master/OLPS_Comparison.ipynb)
 
 More to come ... 
